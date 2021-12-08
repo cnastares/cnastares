@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @cnastares
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+cnastares/cnastares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
+la programacion y actualmente estoy aprendiendo  php  estoy  buscan colabrar en algun proyecto 
+como  me pueden contactar a mi  correo  que es cnastares@gmail.com
